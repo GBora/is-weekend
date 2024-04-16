@@ -8,5 +8,9 @@
   },
   "keywords": ["date", "time"],
   "author": "George Bora <code_alchemy@tutanota.com>",
+  "bugs": {
+    "url": "https://github.com/GBora/is-weekend/issues"
+  },
+  "homepage": "https://github.com/GBora/is-weekend",
   "license": "MIT"
 }
