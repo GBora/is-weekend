@@ -1,5 +1,5 @@
 {
-  "name": "is-weekend",
+  "name": "is-date-weekend",
   "version": "1.0.0",
   "description": "Returns if it is the weekend.",
   "main": "index.js",

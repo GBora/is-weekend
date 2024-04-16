@@ -3,7 +3,7 @@
 Package to see if a day is on the weekend with 0 dependencies
 
 Import it
-`const isWeekend = require('is-weekend').isWeekend;`
+`const isWeekend = require('is-date-weekend').isWeekend;`
 
 Using it to check if the current day is in the weekend, will return true or false, if there is an error it will log it and return null
 
@@ -19,4 +19,4 @@ You can also check a specific date, it needs to be in a format that the standard
 
 You also have an helper method that does the reverse
 
-`const isNotWeekend = require('is-weekend').isNotWeekend;`
+`const isNotWeekend = require('is-date-weekend').isNotWeekend;`
